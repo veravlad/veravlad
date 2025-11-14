@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vlad
+# 👋 Hi, I'm Vladimir
 
 I'm a web developer specialized in **React**, **TypeScript**, and **Tailwind CSS**. I currently work on fintech applications focused on improving customer experiences.
 
