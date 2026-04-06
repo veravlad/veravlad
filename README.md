@@ -65,23 +65,12 @@ I'm a frontend engineer specialized in **React**, **TypeScript**, and **Tailwind
 
 ---
 
-## Featured Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| **Payments Dashboard** | Internal tool for monitoring real-time transactions and chargebacks | React, TypeScript, Recharts |
-| **Onboarding Flow** | Multi-step KYC onboarding with form validation and document upload | React Hook Form, Zustand |
-| **Component Library** | Shared UI kit used across multiple fintech products | Tailwind, Storybook |
-| **Budget Tracker** | Personal finance app with category breakdown and monthly reports | Vite, MongoDB, Node.js |
-
----
-
 ## Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vazpeitiah/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vladimir@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vladimir@veradat.com)
 
 </div>
 
