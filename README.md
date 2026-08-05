@@ -1,3 +1,19 @@
-## About me
+<div align="center">
 
-I'm a frontend engineer specialized in **React**, **TypeScript**, and **Tailwind CSS**, building fintech applications focused on elevating customer experiences. I care about clean code, great UX, and fast products.
+### `Vladimir Azpeitia`
+
+</div>
+
+```
+[OBSERVER] ──▶ [REPEATER] ──▶ [PISTON] ──▶ output
+     ▲                                            │
+     └────────────────────────────────────────────┘
+```
+
+Frontend engineer. React · TypeScript · Tailwind.
+
+<div align="center">
+
+[LinkedIn](https://www.linkedin.com/in/vazpeitiah/) · [Email](mailto:vladimir@veradat.com)
+
+</div>
