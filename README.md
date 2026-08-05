@@ -1,8 +1,6 @@
-<div align="center">
 
 ### Vladimir Azpeitia
 
-</div>
 
 ```
 [OBSERVER] ──▶ [REPEATER] ──▶ [PISTON] ──▶ output
